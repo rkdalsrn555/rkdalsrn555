@@ -1,4 +1,4 @@
-Kang Min Gu ___강민구___
+BackEnd Dev. Kang Min Gu ___강민구___
 ---
 Hi there 😁
 ---
