@@ -1,6 +1,19 @@
-BackEnd Dev. Kang Min Gu ___강민구___
+<div align="center"> Hi there 😁 </div>
+<br>
+<div align="center"><a href="https://drive.google.com/file/d/1B5WZtiLKPLbIZFPvT3cct7MHIY2dcDK5/view?usp=drive_link"><img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=flat-square&logo=readdotcv&logoColor=white"/></a></div>
+<div align="center"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></div>
+
+### 👨‍💻 소통을 우선으로 함께 성장하고자 하는 백엔드 개발자 강민구 입니다.
+
 ---
-Hi there 😁
+- 다양한 사람들을 만나 제가 경험한 것들을 공유하며 같이
+성장하며 이 과정에서 **소통**을 가장 중요하게 생각합니다.
+- **효율적인 방법**을 찾는 것을 좋아하며, **책임감**이 강해 한번 맡
+은 일은 다소 과분하더라도 끝까지 결과물을 내려 노력합니다.
+- 최근에는 **백엔드 개발** 뿐만 아니라 MSA와 같은 **인프라
+구조**를 관심있게 학습하고 있습니다.
+- 이를 통해 많은 사람들에게 안정적인 서비스를 제공하는 것
+이 개발자로서의 목표입니다.
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalsrn314)](https://solved.ac/rkdalsrn314/)
 
