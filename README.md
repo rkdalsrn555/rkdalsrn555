@@ -18,6 +18,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdalsrn314)](https://solved.ac/rkdalsrn314/)
 
 ---
+🌱 Project
+---
+|기간|프로젝트명 (URL)|개요|
+|---|---|---|
+|2023.10.09 ~ 진행중|[MusiQ](https://github.com/rkdalsrn555/MusiQ.git)|웹 기반 실시간 노래 맞추기 게임|
+|2023.08.21 ~ 2023.10.06|[JAZZ](https://github.com/rkdalsrn555/Jazz.git)|재무제표 학습 및 분석 서비스|
+|2023.06.28 ~ 2023.08.18|[PICUS](https://github.com/rkdalsrn555/PICUS.git)|랜덤 알림 폐쇄형 SNS 서비스|
+---
 🛠 Stack
 ---
 ### ✔️Language 
